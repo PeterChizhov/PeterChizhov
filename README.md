@@ -1,16 +1,13 @@
-### Hi there 👋
+## Greetings! 
 
-<!--
-**PeterChizhov/PeterChizhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th course MSU - computer science bachelor student.
+Currently working on [diploma project](https://github.com/PeterChizov/CovidPredictor.git)
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
+
+## Contacts:
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/PeterChizhov)   
+[![Gmail Badge](https://img.shields.io/badge/-p.s.chizhov@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:deagle.gross@gmail.com)](mailto:p.s.chizhov@gmail.com)
