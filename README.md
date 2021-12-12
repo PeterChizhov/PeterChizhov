@@ -1,6 +1,6 @@
 ## Greetings! 
 
-I am a 4th course MSU - computer science bachelor student.
+I am a 5th course MSU - computer science bachelor student.
 Currently working on [diploma project](https://github.com/PeterChizov/CovidPredictor.git)
 
 ## Technologies
