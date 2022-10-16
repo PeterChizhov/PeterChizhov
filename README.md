@@ -1,6 +1,6 @@
 ## Greetings! 
 
-I am a 5th course MSU - computer science master student.
+I am a 6th course MSU - computer science master student.
 
 [Bachelor project.](https://github.com/PeterChizov/CovidPredictor.git)
 
